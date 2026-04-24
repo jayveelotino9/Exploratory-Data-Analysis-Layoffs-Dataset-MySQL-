@@ -2,7 +2,7 @@
 This project explores a cleaned layoffs dataset to find patterns and trends in tech company layoffs from 2020 to 2023.
 
 ## Dataset
-- Source: Alex The Analyst – MySQL YouTube Series
+- Source: Alex The Analyst
 - Topic: Tech company layoffs data (cleaned version from my Data Cleaning Project)
 
 ## Questions I Explored
