@@ -24,8 +24,5 @@ while Google got the top layoffs in the first 3 months of 2023
 ## Tools Used
 MySQL
 
-### Notes
-I followed along with Alex The Analyst's SQL tutorial series and used his dataset. This project helped me practice window functions, CTEs, and drawing basic insights from data.
-
 
 
